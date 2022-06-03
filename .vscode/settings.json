@@ -10,6 +10,5 @@
   "eslint.alwaysShowStatus": true,
   "eslint.format.enable": true,
   "eslint.lintTask.enable": true,
-  "eslint.validate": ["javascript", "vue", "typescript"],
-  "files.eol": "\n",
+  "eslint.validate": ["javascript", "vue", "typescript"]
 }
